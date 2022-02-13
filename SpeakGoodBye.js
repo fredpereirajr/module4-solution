@@ -18,4 +18,3 @@
 
 })(window)
 
-console.log(window.byeSpeaker);
